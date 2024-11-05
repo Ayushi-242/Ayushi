@@ -5,7 +5,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I had completed my bachelor's in INFORMATION TECHNOLOGY from Gujarat Technical University 🏛. I'm a passionate to learner new technologies and programming languages and work across domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love 💻. I will explore Machine Learning 🕸️ and Data Structures and Algorithms 🤓.
+Hi, I'm Ayushi Modi, a passionate Software Developer with a strong focus on MEAN Stack development and J2EE. With hands-on experience in developing web applications, enhancing order management systems, and improving eCommerce platforms, I thrive in fast-paced, multi-project environments. I have participated in the entire Software Development Life Cycle (SDLC) as a Junior BA, QA, and Developer at the Government of Ontario, as well as a Junior PHP Developer. Currently, I’m pursuing a Software Engineering Technology Advanced Diploma at Centennial College, maintaining a high GPA, and actively contributing to innovative solutions. My expertise spans PHP, Laravel, Symfony, MySQL, and more, with a dedication to both development and quality assurance. I am excited to bring my skills to new challenges and am available for a Summer 2025 internship.
 
 <br />
 <img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="300px">
