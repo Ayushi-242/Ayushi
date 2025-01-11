@@ -1,24 +1,43 @@
+Here’s a revamped version of your GitHub README that aligns more closely with your resume and highlights your key skills and experiences:
 
+---
 
-## Hello World !! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I am Ayushi...</h2>
+## Hello World! 🌍 <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I'm Ayushi Modi!  
 <br />
 
-### Glad to see you here! 🤩 &nbsp;
+### Welcome to My GitHub Profile! 🌟  
 
-Hi, I'm Ayushi Modi, a passionate Software Developer with a strong focus on MEAN Stack development and J2EE. With hands-on experience in developing web applications, enhancing order management systems, and improving eCommerce platforms, I thrive in fast-paced, multi-project environments. I have participated in the entire Software Development Life Cycle (SDLC) as a Junior BA, QA, and Developer at the Government of Ontario, as well as a Junior PHP Developer. Currently, I’m pursuing a Software Engineering Technology Advanced Diploma at Centennial College, maintaining a high GPA, and actively contributing to innovative solutions. My expertise spans PHP, Laravel, Symfony, MySQL, and more, with a dedication to both development and quality assurance. I am excited to bring my skills to new challenges and am available for a Summer 2025 internship.
+Hi, I'm **Ayushi Modi**, a passionate and results-driven **Software Developer** with a focus on **Full-Stack Development** and **Software Quality Assurance**. I thrive on building innovative and efficient solutions for real-world problems, leveraging technologies such as **Angular**, **PHP**, **C#**, **ASP.NET**, and **Microsoft Azure**. Currently pursuing a **Software Engineering Technology Advanced Diploma** at **Centennial College**, I maintain a high GPA while actively contributing to impactful projects.  
+
+With hands-on experience in **MEAN Stack Development**, **J2EE**, and **cloud-based solutions**, I have participated in the entire **Software Development Life Cycle (SDLC)**. My professional background includes enhancing **order management systems**, developing **eCommerce platforms**, and improving operational workflows for organizations like the **Government of Ontario**.  
 
 <br />
-<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="300px">
-  
+<img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="300px">
 
+### 🛠️ Expertise & Tools:  
+- **Frontend:** Angular, HTML, CSS, JavaScript, Bootstrap  
+- **Backend:** PHP (Laravel, Symfony), C#, ASP.NET, MySQL, Microsoft SQL Server  
+- **DevOps & Tools:** Git, CI/CD pipelines, Microsoft Azure, RESTful APIs  
+- **Testing & QA:** Selenium, JUnit, debugging, unit testing, and manual testing  
+- **Project Experience:** Inventory Management System, Order Tracking Portal, RESTful API Development  
 
-- 🔭 I’m currently working on new android application  
-- 🌱 I’m currently learning flutter
-- 👯 I’m looking to collaborate on my open source
-- 😄 Pronouns: She / Her
-- ⚡ Fun fact: Dreaming in black and white
+### 🚀 Notable Achievements:  
+- 🏆 **Team Lead at TTC Hackathon (2024):** Developed innovative solutions for public transport, hosted by **WIMTACH**.  
+- 🧩 Co-Founder of **Shreeji Jaipur:** Built an eCommerce platform empowering artisans, using the **MERN stack**.  
+- 🌐 Developed a **Pad Print Tracker System** to enhance operational efficiency in order tracking.  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-242)](https://github.com/anuraghazra/github-readme-stats)
+### 🌱 Currently Learning:  
+- Flutter for cross-platform app development  
+- Advanced cloud-based solutions using Microsoft Azure  
+
+### 📈 Fun Fact:  
+I have a knack for debugging and optimizing code – solving complex problems is my idea of fun!  
+
+---
+
+### 📊 GitHub Stats:  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-242)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushi-242&show_icons=true)  
 
@@ -26,5 +45,22 @@ Hi, I'm Ayushi Modi, a passionate Software Developer with a strong focus on MEAN
 
 ![Profile views](https://gpvc.arturio.dev/Ayushi-242)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Languages and Tools:  
+<p align="left"> 
+  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></a> 
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>  
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/></a>
+</p>
+
+---
+
+Feel free to explore my projects or connect with me! 😊
