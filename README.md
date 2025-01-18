@@ -1,6 +1,4 @@
-Here’s a revamped version of your GitHub README that aligns more closely with your resume and highlights your key skills and experiences:
 
----
 
 ## Hello World! 🌍 <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"> I'm Ayushi Modi!  
 <br />
